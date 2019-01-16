@@ -29,7 +29,7 @@ Sign-up for free BOX API
 * camera (multiple choice; only the 3 cameras that are present on all rovers)
 
 
-2. Once submitted, display a paginated/lazy loading grid with result images (thumbnails with date taken, rover name).
+2. Once the search form is submitted, retreive results from API and display a paginated/lazy loading grid with result images (thumbnails with date taken, rover name).
 
 3. Thumbnail images can be clicked/tapped - displaying full screen/modal window with larger image.
 
