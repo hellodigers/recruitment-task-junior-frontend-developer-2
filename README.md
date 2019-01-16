@@ -23,7 +23,7 @@ Sign-up for free BOX API
 ### Task description
 1. Design, create and style a responsive search form that allows user to search for Mars rovers captured photos provided by the API.
 
-Form fields:
+**Form fields:**
 * date taken (range: from-to)
 * rover (multiple choice)
 * camera (multiple choice; only the 3 cameras that are present on all rovers)
