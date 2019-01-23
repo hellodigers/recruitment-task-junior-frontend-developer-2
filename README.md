@@ -41,7 +41,7 @@ Sign-up for free BOX API
 
 7. Once clicked, display a grid of images (tiles) ine by one. Once full viewport is filled with tiles, rotate them randomly (one image at a time). Effect can be observed at:
 
-[![Alt text](https://img.youtube.com/vi/peudGV9jbAE /0.jpg)](https://www.youtube.com/watch?v=peudGV9jbAE )
+[![Alt text](https://img.youtube.com/vi/peudGV9jbAE/0.jpg)](https://www.youtube.com/watch?v=peudGV9jbAE)
 
 
 
