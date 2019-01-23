@@ -39,7 +39,7 @@ Sign-up for free BOX API
 
 6. Once 10 photos are added, display/enable 'Start Grid' button
 
-7. Once clicked, display a grid of images (tiles) ine by one. Once full viewport is filled with tiles, rotate them randomly (one image at a time). Effect can be observed at:
+7. Once clicked, display a grid of images (tiles) ine by one. Once full viewport is filled with tiles, rotate them randomly (one image at a time). Sample effect can be observed at Youtube video linked below:
 
 [![Alt text](https://img.youtube.com/vi/peudGV9jbAE/0.jpg)](https://www.youtube.com/watch?v=peudGV9jbAE)
 
