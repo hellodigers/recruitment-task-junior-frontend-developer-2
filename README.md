@@ -33,13 +33,13 @@ Sign-up for free BOX API
 
 3. Thumbnail images can be clicked/tapped - displaying full screen/modal window with larger image.
 
-4. Images can be added to basket/cart, displayed below the searhc results.
+4. Images can be added to basket/cart, displayed below the search results.
 
 5. Images added to basket/cart can be moved (order in the cart can be changed). Can be removed (remove one, remove all from basket)
 
-6. Once 10 photos are added, display/enable 'Export' button
+6. Once 10 photos are added, display/enable 'Start Grid' button
 
-7. Onclick, the Export allows to send images located in basket/cart to one of selected cloud storage providers (box, dropbox, google drive) or save them to disk.
+7. Once clicked, display a grid of images (tiles) ine by one. Once full viewport is filled with tiles, rotate them randomly (one image at a time). Effect can be observed at: https://www.youtube.com/watch?v=peudGV9jbAE 
 
 8. 
 
